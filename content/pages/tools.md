@@ -10,61 +10,505 @@ Tools ([PDF]({{< baseurl >}}/resources/supply_list))
 Supply List
 -----------
 
-| SUPPLY ITEMS | SUPPLIERS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Direct Reduction Smelting of Copper Oxide Ore**{{< /td-colspan >}} ||
-| Malachite (Ore) | Ward's Scientific |
-| Charcoal (Fuel) (Natural Hardwood Charcoal, NOT Charcoal "Briquettes") | Grocery/Hardware Store |
-| Forge | Centaur Forge |
-| Coal (Fuel for Forge) | Centaur Forge |
-| Crucibles, Clay-graphite | Centaur Forge |
-| Direct-reading Thermocouple | Omega, Fisher Scientific |
-| Balance Sensitive to 0.1 grams | Omega, Fisher Scientific |
-| Calculator | Electronics Store |
-| Tweezers | Fisher Scientific, The Compleat Sculptor |
-| {{< td-colspan 2 >}}**Lost-wax Casting of Copper-Silver Alloy Bar Ingots**{{< /td-colspan >}} ||
-| "Sticky Wax" | Remet, The Compleat Sculptor |
-| Sculptors or Dental Pink Wax, Sheets | Remet, Rio Grande, The Compleat Sculptor |
-| Beeswax or Sprue Wax | Remet, Centaur Forge |
-| Bunsen Burner or Alcohol Lamp | Fisher Scientific |
-| Various Dental and Sculpting Tools |  {{< br >}}{{< br >}} The Compleat Sculptor {{< br >}}{{< br >}}  |
-| Cardboard Tubes/Paper Cups of Various Sizes/Diameters Large Bucket for Mixing Ceramic Power Mixer | &nbsp; |
-| _Ceramic  {{< br >}}  {{< br >}}_Core Mix, Fine Grind  {{< br >}}  {{< br >}}Binder: R-25 Ethyl Silicate |   {{< br >}}  {{< br >}}Remet  {{< br >}}  {{< br >}}Remet |
-| Ethyl Alcohol | Fischer Scientific |
-| Catalyst: Ammonium Carbonate | Alfa Aesar |
-| Distilled or Deionized Water | Fisher Scientific or Local Science Department |
-| Clay: Mississippi M&D has Highest Green Strength | Local Pottery or Sheffield Pottery |
-| Safety Goggles with Side Shields | Lab Safety Supply, Zar-Tech |
-| Hearing Protection During Grinding, Hammering | Lab Safety Supply |
-| Particle Masks | Lab Safety Supply |
-| LaTeX Gloves | Lab Safety Supply |
-| Labcoats | Lab Safety Supply |
-| Flame Retardant Apparel (Aluminized/Kevlar) | Omega, Zar-Tech |
-| {{< td-colspan 2 >}}**Casting and Working Copper-Silver Alloys**{{< /td-colspan >}} ||
-| Furnace for Warming Mold | Omega |
-| Metal Shot for Melting and Casting | Alfa Aesar |
-| Forge | Centaur Forge |
-| Clay-graphite Crucibles | Centaur Forge |
-| Pouring Tongs | Centaur Forge |
-| Firebrick | Zar-Tech |
-| Wire Brushes | Centaur Forge |
-| Hacksaw | Hardware Store |
-| Grinder, Files | Centaur Forge, The Compleat Sculptor |
-| Vise/Clamp | Centaur Forge |
-| Anvil | Centaur Forge |
-| Tongs for Gripping Ingots | Centaur Forge |
-| Assorted Hammers (Cross Peen, Straight Peen, Ball Peen, for example) | Centaur Forge |
-| Slack Tub (Large Bucket or Tub of Water for Cooling Casting in Mold) Assorted files |  {{< br >}}{{< br >}} Centaur Forge, The Compleat Sculptor {{< br >}}{{< br >}}  |
-| Dilute Sulfuric Acid | Fisher Scientific |
-| Wide-mouthed Glass Dish, ca 10 cm height, 25 cm diameter) for pickling | Fisher Scientific |
-| Dark Room Tongs | Local Photography Store or Calumet |
-| Safety Goggles (clear and tinted) with Side Shields | Lab Safety Supply |
-| Hearing Protection during Grinding, Hammering | Lab Safety Supply |
-| Particle Masks | Lab Safety Supply |
-| LaTeX Gloves | Lab Safety Supply |
-| Labcoats | Lab Safety Supply |
-| Flame Retardant Apparel (Aluminized/Kevlar) | Lab Safety Supply, Zar-Tech |
-| Leather Aprons, Gloves | Centaur Forge 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SUPPLY ITEMS
+{{< thclose >}}
+{{< thopen >}}
+SUPPLIERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Direct Reduction Smelting of Copper Oxide Ore**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Malachite (Ore)
+{{< tdclose >}}
+{{< tdopen >}}
+Ward's Scientific
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Charcoal (Fuel) (Natural Hardwood Charcoal, NOT Charcoal "Briquettes")
+{{< tdclose >}}
+{{< tdopen >}}
+Grocery/Hardware Store
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Forge
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Coal (Fuel for Forge)
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Crucibles, Clay-graphite
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Direct-reading Thermocouple
+{{< tdclose >}}
+{{< tdopen >}}
+Omega, Fisher Scientific
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Balance Sensitive to 0.1 grams
+{{< tdclose >}}
+{{< tdopen >}}
+Omega, Fisher Scientific
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Calculator
+{{< tdclose >}}
+{{< tdopen >}}
+Electronics Store
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tweezers
+{{< tdclose >}}
+{{< tdopen >}}
+Fisher Scientific, The Compleat Sculptor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Lost-wax Casting of Copper-Silver Alloy Bar Ingots**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Sticky Wax"
+{{< tdclose >}}
+{{< tdopen >}}
+Remet, The Compleat Sculptor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sculptors or Dental Pink Wax, Sheets
+{{< tdclose >}}
+{{< tdopen >}}
+Remet, Rio Grande, The Compleat Sculptor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Beeswax or Sprue Wax
+{{< tdclose >}}
+{{< tdopen >}}
+Remet, Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bunsen Burner or Alcohol Lamp
+{{< tdclose >}}
+{{< tdopen >}}
+Fisher Scientific
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Various Dental and Sculpting Tools
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Compleat Sculptor
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cardboard Tubes/Paper Cups of Various Sizes/Diameters Large Bucket for Mixing Ceramic Power Mixer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Ceramic  
+  
+_Core Mix, Fine Grind  
+  
+Binder: R-25 Ethyl Silicate
+{{< tdclose >}}
+{{< tdopen >}}
+  
+  
+Remet  
+  
+Remet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ethyl Alcohol
+{{< tdclose >}}
+{{< tdopen >}}
+Fischer Scientific
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Catalyst: Ammonium Carbonate
+{{< tdclose >}}
+{{< tdopen >}}
+Alfa Aesar
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Distilled or Deionized Water
+{{< tdclose >}}
+{{< tdopen >}}
+Fisher Scientific or Local Science Department
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Clay: Mississippi M&D has Highest Green Strength
+{{< tdclose >}}
+{{< tdopen >}}
+Local Pottery or Sheffield Pottery
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Safety Goggles with Side Shields
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply, Zar-Tech
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hearing Protection During Grinding, Hammering
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Particle Masks
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LaTeX Gloves
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Labcoats
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Flame Retardant Apparel (Aluminized/Kevlar)
+{{< tdclose >}}
+{{< tdopen >}}
+Omega, Zar-Tech
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Casting and Working Copper-Silver Alloys**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Furnace for Warming Mold
+{{< tdclose >}}
+{{< tdopen >}}
+Omega
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Metal Shot for Melting and Casting
+{{< tdclose >}}
+{{< tdopen >}}
+Alfa Aesar
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Forge
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Clay-graphite Crucibles
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pouring Tongs
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Firebrick
+{{< tdclose >}}
+{{< tdopen >}}
+Zar-Tech
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wire Brushes
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hacksaw
+{{< tdclose >}}
+{{< tdopen >}}
+Hardware Store
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grinder, Files
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge, The Compleat Sculptor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vise/Clamp
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Anvil
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tongs for Gripping Ingots
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assorted Hammers (Cross Peen, Straight Peen, Ball Peen, for example)
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Slack Tub (Large Bucket or Tub of Water for Cooling Casting in Mold) Assorted files
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Centaur Forge, The Compleat Sculptor
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dilute Sulfuric Acid
+{{< tdclose >}}
+{{< tdopen >}}
+Fisher Scientific
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wide-mouthed Glass Dish, ca 10 cm height, 25 cm diameter) for pickling
+{{< tdclose >}}
+{{< tdopen >}}
+Fisher Scientific
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dark Room Tongs
+{{< tdclose >}}
+{{< tdopen >}}
+Local Photography Store or Calumet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Safety Goggles (clear and tinted) with Side Shields
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hearing Protection during Grinding, Hammering
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Particle Masks
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LaTeX Gloves
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Labcoats
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Flame Retardant Apparel (Aluminized/Kevlar)
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Safety Supply, Zar-Tech
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Leather Aprons, Gloves
+{{< tdclose >}}
+{{< tdopen >}}
+Centaur Forge
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Suppliers
 ---------
