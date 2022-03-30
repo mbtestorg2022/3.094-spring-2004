@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-094-materials-in-human-experience-spring-2004/cd5f7a722060fabb9a773425fab53741_working_protocol.pdf
 file_type: application/pdf
+parent_uid: d4d94157-fbee-52ff-dada-bee024ca2d9d
 resourcetype: Document
 title: working_protocol.pdf
 uid: cd5f7a72-2060-fabb-9a77-3425fab53741

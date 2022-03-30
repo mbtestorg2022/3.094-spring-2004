@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Image
 title: 22SI03needlephm.tif
 uid: ebd27eee-85b3-d6ba-0ca2-f71037bc1e67

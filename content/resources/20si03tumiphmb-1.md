@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Image
 title: 20SI03tumiphmB.tif
 uid: e1d60270-4fa1-1e3d-64f2-02a0c0a586c1

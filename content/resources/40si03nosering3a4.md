@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Image
 title: 40SI03nosering3A4.tif
 uid: d3387da6-01b7-2e5d-beb1-29ab40932d51

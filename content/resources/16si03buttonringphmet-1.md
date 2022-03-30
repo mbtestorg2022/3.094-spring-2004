@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Image
 title: 16SI03buttonringphmet.tif
 uid: eba334c0-faa4-a8da-b81c-210391f5b9d3

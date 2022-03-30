@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Image
 title: 11SI03axephmicrA.tif
 uid: 580c18bd-b5b3-b8f5-d11f-89b9d7448f28
